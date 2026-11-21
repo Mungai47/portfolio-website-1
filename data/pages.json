@@ -1,0 +1,39 @@
+[
+  {
+    "slug": "quiet-mornings",
+    "title": "Quiet Mornings",
+    "category": "Lifestyle",
+    "description": "Unhurried mornings, soft light, and the small rituals that make a place feel like home.",
+    "coverImage": "https://images.unsplash.com/photo-1449247709967-d4461a6a6103?auto=format&fit=crop&w=1400&q=85",
+    "images": [
+      "https://images.unsplash.com/photo-1449247709967-d4461a6a6103?auto=format&fit=crop&w=1800&q=85",
+      "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1800&q=85",
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1800&q=85"
+    ],
+    "createdAt": "2026-03-10T09:00:00.000Z"
+  },
+  {
+    "slug": "salt-and-sun",
+    "title": "Salt & Sun",
+    "category": "Travel",
+    "description": "A study in warm afternoons and the beautiful stillness of the coast.",
+    "coverImage": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1400&q=85",
+    "images": [
+      "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1800&q=85",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1800&q=85"
+    ],
+    "createdAt": "2026-02-14T09:00:00.000Z"
+  },
+  {
+    "slug": "form-and-feeling",
+    "title": "Form & Feeling",
+    "category": "Portraits",
+    "description": "Honest portraits that leave room for people to simply be themselves.",
+    "coverImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1400&q=85",
+    "images": [
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1800&q=85",
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=1800&q=85"
+    ],
+    "createdAt": "2026-01-19T09:00:00.000Z"
+  }
+]

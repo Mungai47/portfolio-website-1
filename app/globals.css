@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #f5f3ed;
+  --ink: #1d211e;
+  --muted: #777a72;
+  --line: #deddd5;
+  --accent: #c46d4c;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+::selection {
+  background: #d7b6a4;
+  color: var(--ink);
+}
+
+.serif {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 400;
+}
+
+.grain {
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.16'/%3E%3C/svg%3E");
+}
+
+input,
+textarea,
+button {
+  font: inherit;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
